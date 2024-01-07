@@ -2,7 +2,7 @@
 a nice random restful api i made
 
 # use
-two things /hello and /text/:id 
+two things
 GET /hello
 and
 POST /text/id
